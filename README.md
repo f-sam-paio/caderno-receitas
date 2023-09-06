@@ -1,6 +1,6 @@
 # Livro de receitas :bookmark_tabs:
 
-Olá! Bem vindo ao meu livro de receitas.
+Olá! Bem vindo ao meu caderno de receitas.
 
 - Bolo de cenoura
 
