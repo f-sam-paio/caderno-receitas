@@ -1,4 +1,4 @@
-# Livro de receitas :bookmark_tabs:
+# Caderno de receitas :bookmark_tabs:
 
 Olá! Bem vindo ao meu caderno de receitas.
 
